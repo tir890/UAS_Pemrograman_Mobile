@@ -1,9 +1,3 @@
-# Aplikasi Pencatat Mood - Moodiary
-
-Tentu, ini adalah draf `README.md` yang disusun secara profesional untuk repositori GitHub kamu. Draf ini menggabungkan poin-poin *storyboard* yang kamu minta dengan detail teknis dan metodologi dari laporan praktikum kamu.
-
----
-
 # Moodiary - Mood Tracker App
 
 **Moodiary** adalah aplikasi pelacak suasana hati (Mood Tracker) berbasis mobile yang dirancang untuk membantu pengguna memantau kondisi emosional mereka secara berkala. Aplikasi ini berfungsi sebagai alat dokumentasi digital (journaling) untuk mengenali pola perubahan suasana hati melalui fitur pengumpulan data (*collection*) dan visualisasi riwayat (*reflection*).
