@@ -33,14 +33,13 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 ## 🛠️ Detail Teknis
 
-* **Platform:** Android Studio (Mobile)
+**Platform:** Android Studio (Mobile)
 
-**Bahasa Pemrograman:** Java/Kotlin (Mobile) & PHP Native (Web Version) 
+**Bahasa Pemrograman:** Java/Kotlin (Mobile) 
 
 **Database:** MySQL (Versi Web) & Migrasi ke Firebase/SQLite (Versi Mobile) 
 
-
-* **Notifikasi:** Firebase Cloud Messaging (FCM)
+**Notifikasi:** Firebase Cloud Messaging (FCM)
 
 
 **Metodologi Pengembangan:** *Agile Unified Process* (AUP) yang terdiri dari fase *Inception, Elaboration, Construction,* dan *Transition*.
