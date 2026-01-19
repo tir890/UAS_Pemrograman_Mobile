@@ -47,6 +47,8 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 ## 📕 Mockup
 
+> ![Mockup](https://github.com/tir890/UTS-Pemrograman-Mobile/blob/d90f421fa5e0f61bd3f7b7ea459fe098d39d04d8/Pemograman%20Mobile/mockup.jpg)
+
 ## 🔔 Notifikasi Aplikasi
 
 ## 🏠 Splash Screen Sesuai Bahasa Lokasi
