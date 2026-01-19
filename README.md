@@ -56,6 +56,8 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 > ![Indonesia Location](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/c32b3fcaedb60be92d8543d3ab317305eae6ff67/WhatsApp%20Image%202026-01-19%20at%2011.46.35.jpeg)
 
+> ![UK Location](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/7da52a6eddaf749b37e817ff2e11879feaf1685e/WhatsApp%20Image%202026-01-19%20at%2012.34.29.jpeg)
+
 ---
 
 Link Clickup
