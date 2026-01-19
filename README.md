@@ -38,20 +38,23 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 **Notifikasi:** Firebase Cloud Messaging (FCM)
 
-
 --- 
 
 ## 🖼️ Storyboard
 
-## 📘 Wireframe
+> ![Storyboard](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/c32b3fcaedb60be92d8543d3ab317305eae6ff67/Storyboard_Moodiary.png)
 
-## 📕 Mockup
+## 📘 Mockup dan Wireframe
 
-> ![Mockup](https://github.com/tir890/UTS-Pemrograman-Mobile/blob/d90f421fa5e0f61bd3f7b7ea459fe098d39d04d8/Pemograman%20Mobile/mockup.jpg)
+> ![Mockup and Wireframe](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/c32b3fcaedb60be92d8543d3ab317305eae6ff67/WhatsApp%20Image%202026-01-19%20at%2012.10.41.jpeg)
 
 ## 🔔 Notifikasi Aplikasi
 
+> ![Notifikasi](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/c32b3fcaedb60be92d8543d3ab317305eae6ff67/WhatsApp%20Image%202026-01-19%20at%2010.44.42.jpeg)
+
 ## 🏠 Splash Screen Sesuai Bahasa Lokasi
+
+> ![Indonesia Location](https://github.com/tir890/UAS_Pemrograman_Mobile/blob/c32b3fcaedb60be92d8543d3ab317305eae6ff67/WhatsApp%20Image%202026-01-19%20at%2011.46.35.jpeg)
 
 ---
 
