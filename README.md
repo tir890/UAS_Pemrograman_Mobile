@@ -23,7 +23,6 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 * Tersedia logika konfirmasi: pengguna dapat memilih untuk **Simpan** (data masuk ke database) atau **Tidak** (kembali ke menu utama tanpa menyimpan).
 
-
 5. **Dashboard & History**
 * Menampilkan ringkasan mood terakhir yang disimpan dan riwayat mingguan dalam bentuk kalender kecil.
 
@@ -37,29 +36,21 @@ Alur kerja aplikasi ini dirancang secara sistematis untuk memberikan pengalaman 
 
 **Bahasa Pemrograman:** Java/Kotlin (Mobile) 
 
-**Database:** MySQL (Versi Web) & Migrasi ke Firebase/SQLite (Versi Mobile) 
-
 **Notifikasi:** Firebase Cloud Messaging (FCM)
 
 
-**Metodologi Pengembangan:** *Agile Unified Process* (AUP) yang terdiri dari fase *Inception, Elaboration, Construction,* dan *Transition*.
+--- 
 
+## 🖼️ Storyboard
 
+## 📘 Wireframe
 
----
+## 📕 Mockup
 
-## 📊 Diagram Pemodelan Sistem
+## 🔔 Notifikasi Aplikasi
 
-Pengembangan aplikasi ini didasarkan pada perancangan perangkat lunak yang matang:
- 
-**Flowchart:** Menggambarkan logika prosedural dari *start* hingga *end*.
+## 🏠 Splash Screen Sesuai Bahasa Lokasi
 
-**Use Case Diagram:** Memetakan interaksi aktor (User) dengan fungsionalitas sistem.
-
-**Activity Diagram:** Menjelaskan urutan aktivitas dalam dua *swimlanes* (User & System).
-
-**Class Diagram:** Mendefinisikan struktur kelas seperti `User`, `Mood_Record`, `System_Controller`, dan `Dashboard`.
-
-
+## 
 
 ---
